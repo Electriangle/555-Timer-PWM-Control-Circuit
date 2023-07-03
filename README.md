@@ -4,3 +4,5 @@ This PWM control circuit is made with just a few components. The circuit uses th
 Link to YouTube video: https://www.youtube.com/watch?v=IXPacKUE-EY
 
 Link to YouTube channel: https://www.youtube.com/@Electriangle
+
+![alt text](https://github.com/Electriangle/555-Timer-PWM-Control-Circuit/blob/main/Schematic-555-Timer-PWM-Control-Circuit.png?raw=true)
